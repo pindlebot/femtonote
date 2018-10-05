@@ -1,0 +1,43 @@
+{
+  "name": "scratchpad",
+  "version": "0.0.1",
+  "main": "app/app.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel app/index.html"
+  },
+  "dependencies": {
+    "@material-ui/icons": "^3.0.1",
+    "connected-react-router": "^4.5.0",
+    "debounce": "^1.2.0",
+    "draft-js": "^0.10.5",
+    "draft-js-blocks": "^0.0.20",
+    "draft-js-export-html": "^1.2.0",
+    "history": "^4.7.2",
+    "immutable": "^3.8.2",
+    "isomorphic-fetch": "^2.2.1",
+    "jszip": "^3.1.5",
+    "lodash.findindex": "^4.6.0",
+    "mime-types": "^2.1.20",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.3.1",
+    "redux": "^4.0.0",
+    "union-class-names": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/plugin-proposal-class-properties": "^7.1.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
+    "@babel/plugin-transform-runtime": "^7.1.0",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "aws-sdk": "^2.328.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.6.1",
+    "parcel-bundler": "^1.10.1",
+    "sass": "^1.14.1",
+    "standard": "^12.0.1"
+  }
+}

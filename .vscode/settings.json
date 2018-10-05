@@ -1,0 +1,6 @@
+{
+  "standard.enable": true,
+  "standard.workingDirectories": [
+    "app"
+  ]
+}

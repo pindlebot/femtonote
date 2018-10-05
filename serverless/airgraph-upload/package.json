@@ -1,0 +1,10 @@
+{
+  "name": "airgraph-upload",
+  "version": "0.0.1",
+  "main": "handler.js",
+  "license": "MIT",
+  "dependencies": {
+    "mime-types": "^2.1.20",
+    "safe-s3-key": "^0.0.3"
+  }
+}
